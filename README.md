@@ -1,5 +1,8 @@
-Swift-Data-Collections-Labs
+<h1 align="center">Swift-Data-Collections-Labs</h1>
 
-Welcome to Swift-Data-Collections-Labs!
+<p align="center">
+Welcome to <strong>Swift-Data-Collections-Labs</strong>!
+</p>
 
-Here, you’ll find labs and exercises related to data collections in Swift
+<p align="center">
+Here, you'll find labs and exercises related to <strong>data collections in Swift</strong>
